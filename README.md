@@ -1,4 +1,4 @@
-##Проект - тестовое задание созданный с помощью create-react-app
+## Проект - тестовое задание созданный с помощью create-react-app
 
 В работе использовались: React/Redux/Redux-Toolkit
 
@@ -9,21 +9,21 @@ Cверстать две страницы “Список пользовател
 1. Вывести 10 пользователей соответственно макету. Данные взять  с [api - jsonplaceholder](https://jsonplaceholder.typicode.com/users)
 2. Пока идет загрузка списка пользователей должен быть индикатор загрузки( дизайн любой на усмотрение исполнителя )
 3. Вывести на карточку: 
-⋅⋅*name
-⋅⋅*address.city
-⋅⋅*company.name
+*name
+*address.city
+*company.name
 4. Кнопка “Подробнее” должна вести на “Профиль пользователя”
 5. Реализовать фильтрацию списка по признаку Name и City в алфавитном порядке
 Профиль пользователя:
 1. Вывести в профиле:
-⋅⋅*name
-⋅⋅*username
-⋅⋅*email
-⋅⋅*address.street
-⋅⋅*address.city
-⋅⋅*address.zipcode
-⋅⋅*phone
-⋅⋅*website
+*name
+*username
+*email
+*address.street
+*address.city
+*address.zipcode
+*phone
+*website
 2. Все поля формы, кроме Comment, должны быть предзаполнены из [api - jsonplaceholder](https://jsonplaceholder.typicode.com/users)
 3. Реализовать кнопку изменить, изначально поля должны быть readonly, после нажатия на кнопку поля можно редактировать
 4. Реализовать валидацию на клиенте
